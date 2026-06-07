@@ -32,7 +32,7 @@ npm start
 
 ### Output
 
-(Add Screenshot Here)
+<img width="1197" height="731" alt="image" src="https://github.com/user-attachments/assets/108e1cdf-7fc6-4c50-9f2b-2bc696ee9014" />
 
 ---
 
@@ -48,7 +48,7 @@ If the build folder is generated successfully, the application is ready for depl
 
 ### Output
 
-(Add Screenshot Here)
+<img width="841" height="172" alt="image" src="https://github.com/user-attachments/assets/4955b50a-c24f-485d-a85f-a641191c77bc" />
 
 ---
 
@@ -77,7 +77,7 @@ CMD ["nginx", "-g", "daemon off;"]
 
 ### Screenshot
 
-(Add Screenshot Here)
+<img width="1195" height="725" alt="image" src="https://github.com/user-attachments/assets/1d2bf893-f8a6-47d2-8668-027b14fe454f" />
 
 ---
 
@@ -98,7 +98,7 @@ services:
 
 ### Screenshot
 
-(Add Screenshot Here)
+<img width="1202" height="732" alt="image" src="https://github.com/user-attachments/assets/ba67d870-8fa8-4eb9-b802-4470f21acefc" />
 
 ---
 
@@ -119,7 +119,7 @@ http://localhost:8080
 
 ### Output
 
-(Add Screenshot Here)
+<img width="1366" height="703" alt="image" src="https://github.com/user-attachments/assets/56c6d52c-1a6f-4203-90f4-a28c021128c5" />
 
 ---
 
@@ -132,12 +132,6 @@ git add .
 git commit -m "dockerized react app"
 git push origin main
 ```
-
-### Output
-
-(Add Screenshot Here)
-
----
 
 # Step 7: Launch AWS EC2 Instance
 
@@ -165,7 +159,7 @@ git --version
 
 ### Screenshot
 
-(Add Screenshot Here)
+<img width="1161" height="345" alt="image" src="https://github.com/user-attachments/assets/58bf952a-1f9a-4e66-aa98-56a9ef43d8e2" />
 
 ---
 
@@ -451,7 +445,8 @@ If successful:
 
 # Final Output
 
-The updated application is automatically deployed after every push to the main branch.
+<img width="1366" height="705" alt="image" src="https://github.com/user-attachments/assets/78e4e016-9a7d-4886-a1e3-5e1b26d8dfe0" />
+
 
 ---
 
